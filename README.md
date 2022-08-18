@@ -3,7 +3,7 @@ Linux, MaxOS, and other Unix-derivative operating systems, kernels, window manag
 
 # vi (and vim)
 
-| ESCAPE commands  | (press ESC key to enter escape/command mode) |
+| ESCAPE commands  | (press ESC key to enter escape/command mode)             |
 | :------------ | :------------|
 | i | enter insert mode, at cursor (type away) |
 | a | enter append/insert mode, immediately to the right of cursor (even at end of line) |
@@ -20,7 +20,7 @@ Linux, MaxOS, and other Unix-derivative operating systems, kernels, window manag
 | $ | go to end of line the cursor is on |
 | ZZ | write file or save changes, and exit [note capitalization]|
 
-| Other commands | (generally must hit ENTER/RETURN key after each command | 
+| Other commands | (generally must hit ENTER/RETURN key after each command) | 
 | :------------ | :------------|
 | /hello | search forward to find the next instance of word "hello" in text |
 | / | repeat the last find |
