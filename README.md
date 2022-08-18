@@ -1,10 +1,10 @@
 # linux-macos-unix
 Linux, MaxOS, and other Unix-derivative operating systems, kernels, window managers, programs, shells, commands, and configuration
 
-# vi (and vim)
-
-| ESCAPE commands  | (press ESC key to enter escape/command mode)             |
-| :------------ | :------------|
+## vi (and vim)
+  
+| ***ESCAPE COMMANDS***  | ***(press ESC key to enter escape/command mode)*** |
+| :--------------- | :------------ |
 | i | enter insert mode, at cursor (type away) |
 | a | enter append/insert mode, immediately to the right of cursor (even at end of line) |
 | R | overwrite mode, at cursor [note capitalization]|
@@ -19,9 +19,9 @@ Linux, MaxOS, and other Unix-derivative operating systems, kernels, window manag
 | ^ | go to beginning of line the cursor is on |
 | $ | go to end of line the cursor is on |
 | ZZ | write file or save changes, and exit [note capitalization]|
-
-| Other commands | (generally must hit ENTER/RETURN key after each command) | 
-| :------------ | :------------|
+|    |    |
+|    |    |
+| ***OTHER COMMANDS*** | ***(generally must hit ENTER/RETURN key after each command)*** | 
 | /hello | search forward to find the next instance of word "hello" in text |
 | / | repeat the last find |
 | ?hello | search backward to find the previous instance of word "hello" in text |
