@@ -34,7 +34,7 @@ Linux, MaxOS, and other Unix-derivative operating systems, kernels, window manag
 | :218 | go to line number 218, if there is one (or to last line of file if shorter than 218 lines) |
 | :set nu | turn on line numbers (use :set nu! to toggle line numbers back off) 
 | :%s/delete/del/g | substitute/replace "delete" with "del", globally (entire file) |
-| :%s/,//g | substitute/replace all commas, globally (careful! remember, :w to save first, u for undelete, :q! to "bail out") |
+| :%s/,//g | substitute/replace all commas, globally (careful! remember, :w to save first, u for undo, :q! to "bail out") |
 | :%s/\$//g | globally remove (replace with nothing) all dollar signs ($) |
 | :!ls | run a shell command (ls, in this case), then return to editing this file |
 | :UP ARROW | navigate UP (or DOWN) through previous commands used in this mode [note ENTER/RETURN not needed] |
