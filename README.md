@@ -1,5 +1,5 @@
 # linux-macos-unix
-Linux, MaxOS, and other Unix-derivative operating systems, kernels, window managers, programs, and shells, commands, and configuration
+Linux, MaxOS, and other Unix-derivative operating systems, kernels, window managers, programs, shells, commands, and configuration
 
 # vi (and vim)
 
